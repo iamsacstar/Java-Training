@@ -6,3 +6,5 @@
 |3|[AddTwoIntegers](https://github.com/iamsacstar/Java-Training/blob/main/3.%20AddTwoIntegers.java)|
 |4|[Swap](https://github.com/iamsacstar/Java-Training/blob/main/4.%20Swap.java)|
 |5|[FloatMultiplication](https://github.com/iamsacstar/Java-Training/blob/main/5.%20FloatMultiplication.java)|
+
+if you like the code do follow https://linkedin.com/in/iamsachin08
