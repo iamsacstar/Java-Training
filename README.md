@@ -8,3 +8,5 @@
 |5|[FloatMultiplication](https://github.com/iamsacstar/Java-Training/blob/main/5.%20FloatMultiplication.java)|
 
 If you like the code do follow https://linkedin.com/in/isachin2008
+
+![Java-Logo](https://user-images.githubusercontent.com/110603659/200104297-517ae7e2-db59-4a7e-af9a-66f7d3b7daec.png)
