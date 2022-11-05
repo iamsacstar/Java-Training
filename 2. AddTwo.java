@@ -1,3 +1,4 @@
+//Without user input
 public class AddTwo{
 	public static void main(String[] args){
 		int a,b,c;
