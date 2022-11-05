@@ -1,5 +1,7 @@
 # Java-Training
 |Sr. No| Name of Program|
 | :----| :--------------|
-|1|Add Two Number|
-|2|Swapping|
+|1|Hello|
+|2|AddTwo|
+|3|AddTwoIntegers|
+|4|Swap|
