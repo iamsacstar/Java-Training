@@ -9,6 +9,7 @@
 |6|[EvenOdd](https://github.com/iamsacstar/Java-Training/blob/main/6.%20EvenOdd.java)|
 |7|[Vowel](https://github.com/iamsacstar/Java-Training/blob/main/7.%20Vowel.java)|
 |8|[Largest Of Three](https://github.com/iamsacstar/Java-Training/blob/main/8.%20LargestOfThree.java)|
+|9|[Leap Year](https://github.com/iamsacstar/Java-Training/blob/main/9.%20LeapYear.java)|
 
 If you like the code do follow [Sachin Kumar](https://linkedin.com/in/isachin2008)
 
