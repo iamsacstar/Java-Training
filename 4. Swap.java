@@ -3,14 +3,14 @@ import java.util.Scanner;
 public class Swap{
 	public static void main(String[] args){
 		Scanner sc=new Scanner(System.in);
-		int a,b;
+		int e,b;
 		System.out.print("Enter the value of a: ");
 		a=sc.nextInt();
 		System.out.print("Enter the value of b: ");
 		b=sc.nextInt();
-		a=a+b;
-		b=a-b;
-		a=a-b;
-		System.out.println("Swapped Value of a is: "+a+ '\n' + "and b is : "+ b);
+		e=e+b;
+		b=e-b;
+		e=e-b;
+		System.out.println("Swapped Value of a is: "+e+ '\n' + "and b is : "+ b);
 	}
 }
